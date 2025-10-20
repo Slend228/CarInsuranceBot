@@ -1,4 +1,4 @@
-  Vehicle Car Insurance Telegram Bot
+  Vehicle Car Insurance Telegram Bot<br>
   [CarInsuranceBot](t.me/CarInsuranceAssistantBot)
 
   This Telegram bot automates the process of generating vehicle insurance by processing passport and vehicle registration document.<br>
