@@ -14,17 +14,17 @@
 
   ⚙️ Setup Instructions
   1. Clone Repository<br>
-  git clone https://github.com/<your-username>/CarInsuranceBot.git<br>
-  `cd <repository-name>`
+     `git clone https://github.com/<your-username>/CarInsuranceBot.git`<br>
+    `cd <repository-name>`
   2. Install Dependencies<br>
-  npm install<br>
+    `npm install`
   3. Environment Variables<br>
-  Create a .env file in the project root and add your keys:<br>
-  TELEGRAM_BOT_TOKEN=your_telegram_token<br>
-  MINDEE_V2_API_KEY=your_mindee_api_key<br>
-  GEMINI_API_KEY=your_gemini_api_key<br>
+     Create a .env file in the project root and add your keys:<br>
+     TELEGRAM_BOT_TOKEN=your_telegram_token<br>
+     MINDEE_V2_API_KEY=your_mindee_api_key<br>
+     GEMINI_API_KEY=your_gemini_api_key<br>
   4. Run the Bot<br>
-   node bot.js<br>
+    `node bot.js`
 
   📦 Dependencies
 
