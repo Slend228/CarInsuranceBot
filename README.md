@@ -1,5 +1,5 @@
   Vehicle Car Insurance Telegram Bot<br>
-  [CarInsuranceBot](t.me/CarInsuranceAssistantBot)
+  [CarInsuranceBot](https://t.me/CarInsuranceAssistantBot)
 
   This Telegram bot automates the process of generating vehicle insurance by processing passport and vehicle registration document.<br>
   It uses Mindee API for document data extraction and Gemini API for generating the final insurance policy and AI-based responses.<br>
