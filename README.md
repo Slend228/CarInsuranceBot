@@ -15,7 +15,7 @@
   ⚙️ Setup Instructions
   1. Clone Repository<br>
   git clone https://github.com/<your-username>/CarInsuranceBot.git<br>
-  cd <repository-name> <br>
+  cd <repository-name>
   2. Install Dependencies<br>
   npm install<br>
   3. Environment Variables<br>
